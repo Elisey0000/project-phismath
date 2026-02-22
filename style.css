@@ -314,6 +314,7 @@ footer {
     border-radius: 15px;
 }
 img {
+    margin-top: 2.5rem;
     width: 100%;
 }
 
@@ -485,6 +486,7 @@ html {
 h2 { animation-delay: 0.2s; }
 
 h3 { animation-delay: 0.3s; }
+
 
 
 
