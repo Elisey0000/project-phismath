@@ -316,6 +316,7 @@ footer {
     border-top: 2px dashed #cccccc;
     font-size: 15px;
     color: #1B5E20;
+    font-weight: bold;
     background-image: url('https://img.freepik.com/premium-vector/forest-background-landscape-fir-trees-pine-needles-eps-10_710373-307.jpg?semt=ais_hybrid&w=740&q=80');
     background-size: cover;
     padding: 25px;
@@ -493,5 +494,6 @@ html {
 h2 { animation-delay: 0.2s; }
 
 h3 { animation-delay: 0.3s; }
+
 
 
