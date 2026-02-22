@@ -6,7 +6,7 @@
 }
 
 body {
-    background: linear-gradient(135deg, #727480 0%, #c3cfe2 100%);
+    background: linear-gradient(135deg, #727480 0%, #596b5a 100%);
     color: #333;
     line-height: 1.7;
     padding: 20px;
@@ -494,6 +494,7 @@ html {
 h2 { animation-delay: 0.2s; }
 
 h3 { animation-delay: 0.3s; }
+
 
 
 
