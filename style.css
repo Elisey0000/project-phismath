@@ -126,7 +126,9 @@ p {
     background:  linear-gradient(90rem #ffffff, #000000);
     opacity: 80%;
 }
-
+fa {
+    color: #ffffff;
+}
 .steps::before {
     content: '📝';
     position: absolute;
@@ -485,3 +487,4 @@ html {
 .my-note { animation-delay: 0.9s; }
 h2 { animation-delay: 0.2s; }
 h3 { animation-delay: 0.3s; }
+
